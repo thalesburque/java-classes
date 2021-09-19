@@ -16,6 +16,7 @@ public class Program {
 		Scanner keyboard = new Scanner(System.in);
 
 		List<Employee> list = new ArrayList<>();
+			
 
 		System.out.print("How many employees will be registered? ");
 		int numOfEmployees = keyboard.nextInt();
