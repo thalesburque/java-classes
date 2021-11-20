@@ -33,7 +33,7 @@ public class ContractService {
 		}
 
 	}
-	
+
 	// method to calculate payment due date
 	private Date addMonths(Date date, int numOfMonths) {
 		Calendar cal = Calendar.getInstance();
